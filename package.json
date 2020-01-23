@@ -9,7 +9,7 @@
     "gatsby": "^2.18.23",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-canonical-urls": "^2.1.19",
-    "gatsby-plugin-google-analytics": "^2.1.33",
+    "gatsby-plugin-google-analytics": "^2.1.34",
     "gatsby-plugin-manifest": "^2.2.37",
     "gatsby-plugin-no-sourcemaps": "^2.1.2",
     "gatsby-plugin-offline": "^3.0.32",
