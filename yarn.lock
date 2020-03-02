@@ -5726,10 +5726,10 @@ gatsby-remark-external-links@0.0.4:
     unist-util-find "^1.0.1"
     unist-util-visit "^1.1.3"
 
-gatsby-remark-images-contentful@^2.1.30:
-  version "2.1.30"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images-contentful/-/gatsby-remark-images-contentful-2.1.30.tgz#41d9e1fb2d05637c3b5284a5e5b51592ed99cf68"
-  integrity sha512-lPssrNWVmz6HNIoINFYRs0UIL9hMTO8Y07/KJaNq9965RpDJo1+8wtkl/JHqpmjwgYxuToN3Q2CaCChJ8/MPTA==
+gatsby-remark-images-contentful@^2.1.32:
+  version "2.1.32"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images-contentful/-/gatsby-remark-images-contentful-2.1.32.tgz#3d436c41f29c2afc64621a5bc272f620aebb8208"
+  integrity sha512-7ql+nyjq5vMfURNh2NqIsvlUGfFRyirXGTeceHjH5qE+1CENEUGILdju4/LBMC39kgj6qw5ZFhU0pZrS4BFHzA==
   dependencies:
     "@babel/runtime" "^7.7.6"
     axios "^0.19.0"
